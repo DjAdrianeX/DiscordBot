@@ -1,0 +1,14 @@
+{
+  "auth_token": "AUTHTOKEN",
+  "db": {
+    "host": "localhost",
+    "user": "modbot",
+    "password": "password",
+    "database": "modbot",
+    "charset": "utf8mb4",
+    "supportBigNumbers": true,
+    "bigNumberStrings": true
+  },
+  "prefix": "!",
+  "googleapikey":"google API Key"
+}

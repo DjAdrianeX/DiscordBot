@@ -1,0 +1,27 @@
+{
+  "name": "modbot",
+  "version": "0.1.0",
+  "description": "Discord Bot for the Aternos Discord server",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aternosorg/modbot.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aternosorg/modbot/issues"
+  },
+  "homepage": "https://github.com/aternosorg/modbot#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "diff": "^4.0.2",
+    "discord.js": "^12.4.0",
+    "fuse.js": "^6.4.1",
+    "googleapis": "^61.0.0",
+    "mysql": "^2.18.1"
+  }
+}
